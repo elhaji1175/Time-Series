@@ -23,6 +23,6 @@ Open the hang_seng_index_time_series.R file in R.
 Run the script in R.
 Results
 
-The project presents a comprehensive time series analysis of the Hang Seng Index using R programming. The analysis includes a visual representation of the opening, closing, high, and low values of the Hang Seng Index, as well as an examination of the autocorrelation and partial autocorrelation patterns. The project also uses ARIMA to make predictions about future movements of the Hang Seng Index and the results are presented in charts and graphs.
+The project presents a comprehensive time series analysis of the Hang Seng Index using R programming. The analysis includes a visual representation of the opening, closing, high, and low values of the Hang Seng Index, as well as an examination of the autocorrelation and partial autocorrelation patterns. The project also uses ARIMA to check the residuals of the Hang Seng Index and the results are presented in charts and graphs.
 
 
